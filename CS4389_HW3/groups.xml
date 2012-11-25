@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Groups>
+    <Group ID="Guest">
+        <Member>John</Member>
+    </Group>
+    <Group ID="Users">
+        <Member>Sean</Member>
+        <Member>Tim</Member>
+        <Member>Jon</Member>
+        <Member>Scott</Member>
+        <Member>Rich</Member>
+    </Group>
+    <Group ID="Admin">
+        <Member>Sherry</Member>
+        <Member>Chad</Member>
+        <Member>Doug</Member>
+        <Member>Fred</Member>
+    </Group>
+</Groups>
